@@ -7,7 +7,7 @@ pygame.font.init()
 
 x, y = (800-135)/2 , (600-35)/2 #random.randint(0, 500), random.randint(0, 400)
 
-font = font = pygame.font.Font(None, 50)
+font = pygame.font.Font(None, 50)
 Nome = "Alysson"
 rect =  (x, y, 135, 35)
 
